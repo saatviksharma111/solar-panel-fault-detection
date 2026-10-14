@@ -1,0 +1,4 @@
+onnxruntime
+opencv-python
+numpy
+# picamera2 comes from Raspberry Pi OS: sudo apt install python3-picamera2

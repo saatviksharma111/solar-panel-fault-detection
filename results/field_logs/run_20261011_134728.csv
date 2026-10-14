@@ -1,0 +1,10 @@
+time,t_since_start_s,class,conf,x1,y1,x2,y2,image
+13:47:35,6.6,physical damage,0.653,95,360,629,539,det_00006s.jpg
+13:47:36,7.6,physical damage,0.773,100,377,585,538,det_00007s.jpg
+13:47:38,9.1,physical damage,0.684,97,386,517,538,det_00009s.jpg
+13:47:39,10.5,physical damage,0.707,283,393,710,539,det_00010s.jpg
+13:47:49,20.2,physical damage,0.628,356,403,771,539,det_00020s.jpg
+13:47:51,22.2,physical damage,0.615,94,420,508,539,det_00022s.jpg
+13:47:51,22.2,physical damage,0.533,7,0,957,541,det_00022s.jpg
+13:47:52,23.6,physical damage,0.926,211,373,635,538,det_00023s.jpg
+13:47:54,25.7,physical damage,0.859,420,384,868,539,det_00025s.jpg

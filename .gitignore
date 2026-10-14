@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.idea/
+runs/
+videos/
+*_results/
+*.h264
+*.mp4

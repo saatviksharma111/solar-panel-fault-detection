@@ -1,0 +1,5 @@
+time,t_since_start_s,class,conf,x1,y1,x2,y2,image
+17:24:14,1.2,physical damage,0.665,177,474,246,536,det_00001s.jpg
+17:24:28,15.8,physical damage,0.4,359,444,426,509,det_00015s.jpg
+17:24:30,17.3,physical damage,0.873,331,417,385,450,det_00017s.jpg
+17:24:32,19.4,physical damage,0.694,471,491,535,538,det_00019s.jpg
